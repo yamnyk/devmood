@@ -2,6 +2,9 @@
 
 > _Sarcastic Slack status generator for developers surviving production._
 
+[![Vite](https://img.shields.io/badge/Vite-frontend-4FC08D?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Express](https://img.shields.io/badge/Express-backend-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-linter-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
 [![pnpm](https://img.shields.io/badge/pnpm-package%20manager-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
 [![Made with Preact](https://img.shields.io/badge/Preact-UI-informational?logo=preact&logoColor=white)](https://preactjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-language-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
