@@ -1,0 +1,36 @@
+# Node modules
+node_modules/**/*
+**/node_modules/**/*
+
+# PNPM / lockfiles
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+**/pnpm-lock.yaml
+**/package-lock.json
+**/yarn.lock
+
+# Build / dist
+dist/**/*
+**/dist/**/*
+coverage/**/*
+**/coverage/**/*
+
+# Env
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+**/.env.*.local
+
+# OS junk
+.DS_Store/**/*
+**/.DS_Store/**/*
+
+# IDE
+.idea/
+.vscode/
+**/.idea/**/*
+**/.vscode/**/*
+*.iml

@@ -1,0 +1,15 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Run lint-staged to format/lint staged files.
+pnpm lint-staged
+
+# Optionally run tests if a test script is defined.
+if grep -q '"test":' package.json; then
+  echo "Running tests..."
+  pnpm test
+else
+  echo "No tests defined, skipping test run."
+fi
+
+echo "Pre-commit hook completed."
