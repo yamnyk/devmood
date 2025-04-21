@@ -2,14 +2,14 @@
 
 > _Sarcastic Slack status generator for developers surviving production._
 
-[![Vite](https://img.shields.io/badge/Vite-frontend-4FC08D?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Express](https://img.shields.io/badge/Express-backend-000000?logo=express&logoColor=white)](https://expressjs.com/)
-[![ESLint](https://img.shields.io/badge/ESLint-linter-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
 [![pnpm](https://img.shields.io/badge/pnpm-package%20manager-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![Vite](https://img.shields.io/badge/Vite-frontend-4FC08D?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![ESLint](https://img.shields.io/badge/ESLint-linter-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
+[![Prettier](https://img.shields.io/badge/Prettier-code%20formatter-F7B93E?logo=prettier&logoColor=white)](https://prettier.io/)
 [![Made with Preact](https://img.shields.io/badge/Preact-UI-informational?logo=preact&logoColor=white)](https://preactjs.com/)
+[![Express](https://img.shields.io/badge/Express-backend-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-language-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-backend-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-Auth%20%26%20DB-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-status%20engine-412991?logo=openai&logoColor=white)](https://openai.com/)
 [![Slack API](https://img.shields.io/badge/Slack-status%20integration-4A154B?logo=slack&logoColor=white)](https://api.slack.com/)
